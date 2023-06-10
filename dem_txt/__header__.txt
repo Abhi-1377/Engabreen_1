@@ -1,0 +1,1 @@
+b'MATLAB 5.0 MAT-file, Platform: PCWIN64, Created on: Mon Jan 11 14:28:27 2016'

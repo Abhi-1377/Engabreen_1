@@ -1,0 +1,1 @@
+['cropped & downsampled laser scan 2013 (same date as img_8902). coords:UTM33N,NN1954. Contact NVE.NO for full data.']
